@@ -1,0 +1,798 @@
+
+.nav_txtdesign li a
+{
+    color: #FFF !important;
+    font-weight: 600;
+}
+.unque_txtdesign
+{
+	padding: 9px 22px 0px 22px !important;
+    text-decoration: underline !important;
+}
+.nvehdng_design
+{
+	background: #000 !important;
+}
+.baner_outstructure
+{
+    
+}
+.baner_outstructure
+{
+    background: url('../images/banner.jpg');
+    width: 100%;
+    background-size: cover;
+    /*height: 90vh;*/
+}
+.banner_inrarea
+{
+    margin-top: 170px;
+}
+.fsttxt
+{
+    color: #FFF;
+    font-size: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.bnrlnktxt
+{
+   color: #FFF;
+   text-decoration: none !important;
+}
+.bnrlnktxt:hover
+{
+    color: #FFF;
+}
+.hdngtxt
+{
+    font-size: 48px;
+    line-height: 72px;
+    color: #fff;
+    margin: 0;
+    font-weight: 500;
+    text-shadow: 0 1px 8px rgb(0 0 0 / 20%);
+    text-align: center;
+}
+.backcolor
+{
+    background: #00000061;
+    width: 100%;
+    height: 100%;
+}
+.srchare_outstructure
+{
+    background: #ffffff8a;
+    margin-top: 50px;
+    margin-bottom: 215px;
+    border-radius: 30px;
+    height: 45px;
+    padding: 7px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.drpdwnarea
+{
+    width: 45%;
+    border-right: 2px solid black;
+    float: left;
+}
+.nempe
+{
+    padding: 0px 0px 0px 17px;
+    line-height: 17px;
+    font-size: 20px;
+    color: #000;
+}
+.cstmslct
+{
+    width: 80%;
+    height: 35px;
+    border: none;
+    outline: none;
+    background: transparent;
+    margin: 0px 0px 0px 10px;
+    cursor: pointer;
+}
+.dsrch_outstructure
+{
+    width: 47%;
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+.gdsrch
+{
+    padding: 0px 0px 0px 0px;
+    line-height: 17px;
+    font-size: 20px;
+    color: #000;
+}
+.boxdesign
+{
+    width: 90%;
+    border: none;
+    outline: none;
+    height: 35px;
+    background: transparent;
+    cursor: pointer;
+    padding: 0px 0px 0px 10px;
+}
+.category_outstructure
+{
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    border-radius: 5px;
+    background: #FFF;
+    cursor: pointer;
+    margin-top: -147px;
+}
+.sngl_catoutstructure
+{
+    cursor: pointer;
+    padding: 25px 0px 15px 0px;
+}
+.clricn_design
+{
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.ctgry_nmedesign
+{
+    text-align: center;
+    font-size: 17px;
+    margin: 0px;
+    padding: 5px 0px 0px 0px;
+}
+.carsel_outstructure
+{
+    margin: 90px 0px 0px 0px;
+}
+.seprate_outstructure
+{
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    background: #d7d7d7;
+    cursor: pointer;
+    margin: 0px 10px 0px 10px;
+}
+.seprate_outstructure:hover
+{
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.thtrtxtdesign
+{
+    color: #bd2130;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 0px 0px 10px;
+}
+.thytrimg
+{
+    width: 40%;
+    border-radius: 90px 0px 0px 90px;
+    float: right;
+    margin: 7px 0px 7px 0px;
+}
+.owldescrptn_txt
+{
+    font-size: 13px;
+    padding: 20px 13px 13px 13px;
+}
+#owl-demo .item
+{
+    margin: 3px;
+}
+#owl-demo .item img
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.ads_outstructure
+{
+    margin: 50px 0px 0px 0px;
+    background: #bd2130;
+}
+.fstvrdy_outstructure
+{
+    padding: 0px;
+}
+.ofsttxt
+{
+    font-size: 30px;
+    color: #FFF;
+    margin: 0px;
+    font-weight: 300;
+    padding: 87px 0px 0px 130px;
+}
+.ofsttxt1
+{
+    font-size: 55px;
+    color: #FFF;
+    margin: 0px;
+    padding: 10px 0px 0px 130px;
+    letter-spacing: 3px;
+}
+.ofsttxt2
+{
+    font-size: 25px;
+    color: #FFF;
+    margin: 0px;
+    font-weight: 400;
+    padding: 25px 0px 3px 154px;
+    position: relative;
+}
+.ofsttxt2::before
+{
+    position: absolute;
+    content: '';
+    width: 42%;
+    border: 1px solid #FFF;
+    left: 137px;
+    top: 18px;
+}
+.ofsttxt2::after
+{
+    position: absolute;
+    content: '';
+    width: 42%;
+    border: 1px solid #FFF;
+    left: 137px;
+    bottom: -8px;
+}
+.blnwbtn_dsgn
+{
+    margin: 31px 0px 30px 137px;
+    width: 150px;
+    height: 40px;
+    border: none;
+    outline: none;
+    background: #000;
+    color: #FFF;
+    font-size: 15px;
+    line-height: 40px;
+}
+.blnwbtn_dsgn i
+{
+    padding: 0px 0px 0px 7px;
+}
+.fstvrdy_outstructure1
+{
+   
+}
+.dadsimg
+{
+    margin: 0px 0px 0px 60px;
+}
+.about_outstructure
+{
+    margin: 70px 0px 0px 0px;
+}
+.aboutlft_outstructure
+{
+   
+}
+.sec-title 
+{
+    margin-bottom: 25px;
+}
+.sec-title .title 
+{
+    position: relative;
+    color: #595959;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.7em;
+    padding-left: 75px;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+}
+.sec-title .title:before 
+{
+    position: absolute;
+    content: '';
+    left: 0px;
+    top: 11px;
+    height: 3px;
+    width: 55px;
+    background-color: #bd2130;
+}
+.sec-title h2 
+{
+    font-size: 35px;
+    line-height: 1.2em;
+    margin-top: 15px;
+    font-weight: 700;
+    padding: 0px 0px 11px 0px;
+}
+.abtdescrp_txtdesign
+{
+    position: relative;
+    color: #383838;
+    font-size: 16px;
+    margin: 0px 0px 0px 0px;
+    padding: 7px 0px 0px 0px;
+}
+.option-list 
+{
+    position: relative;
+    padding: 0px;
+}
+.option-list li 
+{
+    position: relative;
+    margin-bottom: 18px;
+    color: #0e0e0e;
+    font-size: 16px;
+    font-weight: 600;
+    padding-left: 17px;
+    list-style: none;
+    cursor: pointer;
+}
+.whychslst
+{
+    padding: 0px;
+}
+.inwhysection
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.aboutright_outstructure
+{
+    
+}
+.abtimgdsgn
+{
+  width: 100%;
+  height: 100%;   
+}
+.caxqtxt
+{
+    color: #000;
+    font-size: 17px;
+}
+.caxqtxt1
+{
+    color: #bd2130;
+    font-weight: 700;
+    font-size: 23px;
+}
+.experiance
+{
+    position: absolute;
+    left: -61px;
+    bottom: 13px;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 13px 30px;
+    background-color: #bd2130;
+    transform: rotate(-90deg);
+    transform-origin: 15% 30%;
+}
+.papback_outstructure
+{
+    margin: 70px 0px 0px 0px;
+    background: url(../images/bg-stay-in-touch.jpg);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+.papback_outstructure1
+{
+    width: 100%;
+    height: 100%;
+    background: #bd2130b5;
+}
+.afsad_outstructure
+{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: #FFF;
+    padding: 70px 0px 0px 0px;
+    letter-spacing: 2px;
+    margin: 0px;
+}
+.apptgxt
+{
+    font-size: 15px;
+    color: #FFF;
+    margin: 0px 0px 0px 0px;
+    padding: 20px 0px 25px 0px;
+    /*text-align: justify;*/
+}
+.aplogo_design
+{
+    width: 140px;
+    margin: 0px 11px 0px 0px;
+}
+.aiotxt
+{
+    font-size: 15px;
+    color: #FFF;
+    margin: 0px 0px 0px 0px;
+    padding: 25px 0px 40px 0px;
+}
+.testimonial_outstructure
+{
+    border: 1px solid black;
+    margin: 70px 0px 0px 0px;
+}
+.footer_outstructure
+{
+    background: black;
+    margin: 20px 0px 0px 0px;
+}
+.fstlstcv
+{
+    list-style: none;
+    margin: 0px;
+    padding: 30px 0px 0px 0px;
+    border-bottom: 1px solid #FFF;
+}
+.fstlstcv li
+{
+    display: inline-block;
+    padding: 0px 0px 11px 0px;
+    margin: 0px 47px 0px 13px;
+}
+.fstlstcv li a
+{
+    color: #FFF;
+    text-decoration: none !important;
+    font-size: 16px;
+}
+.sdntxtc
+{
+    color: #FFF;
+    margin: 0px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 0px 0px 9px;
+}
+.sdntxtc1
+{
+    color: #FFF;
+    margin: 0px;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 10px 0px 0px 9px;
+}
+.fstlstcv1
+{
+    list-style: none;
+    margin: 0px;
+    padding: 20px 0px 0px 0px;
+    border-bottom: 1px solid #FFF;
+}
+.fstlstcv1 li
+{
+    display: inline-block;
+    padding: 0px 0px 11px 0px;
+    margin: 0px 20px 0px 13px;
+}
+.fstlstcv1 li a
+{
+    color: #FFF;
+    text-decoration: none !important;
+    font-size: 16px;
+}
+.fldwn_section
+{
+    margin: 30px 0px 0px 0px;
+}
+.ftrlogo
+{
+    width: 110px;
+}
+.cpyrgt_section
+{
+  margin: 30px 0px 0px 0px;
+}
+.cpyrgt_txtdesign
+{
+    color: #FFF;
+    margin: 0px;
+    font-size: 15px;
+    padding: 9px 0px 0px 0px;
+}
+.sclmdia_section
+{
+    margin: 30px 0px 0px 0px;
+}
+.dsclx
+{
+    margin: 0px;
+    padding: 0px;
+}
+.dsclx li
+{
+    list-style: none;
+    width: 40px;
+    height: 40px;
+    background: #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    display: inline-block;
+    cursor: pointer;
+    margin: 0px 0px 0px 7px;
+}
+.dsclx li i
+{
+    color: #bd2130;
+    font-size: 17px;
+}
+
+.testimonial{ margin: 0 20px 50px; }
+.testimonial .pic{
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 0 15px 15px 0;
+    background: #bd2130;
+    padding: 5px;
+}
+.testimonial .pic img{
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+.testimonial .testimonial-profile{
+    display: inline-block;
+    position: relative;
+    top: 15px;
+}
+.testimonial .title{
+    display: block;
+    font-size: 20px;
+    font-weight: 600;
+    color: #2f2f2f;
+    text-transform: capitalize;
+    margin: 0 0 7px 0;
+}
+.testimonial .post{
+    display: block;
+    font-size: 14px;
+    color: #bd2130;
+}
+.testimonial .description{
+    padding: 20px 22px;
+    background: #bd2130;
+    font-size: 15px;
+    color: #fff;
+    line-height: 25px;
+    margin: 0;
+    position: relative;
+}
+.testimonial .description:before,
+.testimonial .description:after{
+    content: "";
+    border-width: 18px 0 0 18px;
+    border-style: solid;
+    border-color: #bd2130 transparent transparent;
+    position: absolute;
+    bottom: -18px;
+    left: 0;
+}
+.testimonial .description:after{
+    border-width: 18px 18px 0 0;
+    left: auto;
+    right: 0;
+}
+.owl-theme .owl-controls{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.owl-theme .owl-controls .owl-buttons div{
+    opacity: 0.8;
+    background: #fff;
+}
+/*.owl-prev:before,
+.owl-next:before{
+    content: "\f053";
+    font-family: "Font Awesome 5 Free"; font-weight: 900;
+    font-size: 20px;
+    color: #1f487e;
+}
+.owl-next:before{ content: "\f054"; }*/
+.testmonial_section
+{
+    margin-top: 70px;
+}
+.fdwnareapdng
+{
+    margin: 0px 0px 20px 0px;
+}
+/*=================================responsive area=====================*/
+@media(max-width:  767px)
+{
+	.unque_txtdesign
+	{
+		padding: 0px 0px 0px 0px !important;
+	}
+    .hdngtxt
+    {
+        font-size: 25px;
+    }
+    .ofsttxt
+    {
+        padding: 87px 0px 0px 67px;
+    }
+    .ofsttxt1
+    {
+        padding: 10px 0px 0px 70px;
+    }
+    .ofsttxt2
+    {
+        font-size: 23px;
+        padding: 25px 0px 3px 75px;
+    }
+    .ofsttxt2::before
+    {
+        width: 53%;
+        border: 1px solid #FFF;
+        left: 36px;
+        top: 15px;
+    }
+    .ofsttxt2::after
+    {
+        width: 57%;
+        border: 1px solid #FFF;
+        left: 37px;
+        bottom: -7px;
+    }
+    .blnwbtn_dsgn
+    {
+        margin: 31px 0px 30px 109px;
+    }
+    .ofsttxt
+    {
+        font-size: 25px;
+        padding: 25px 0px 0px 27px;
+    }
+    .ofsttxt1
+    {
+        font-size: 27px;
+        padding: 7px 0px 0px 33px;
+    }
+    .ofsttxt2
+    {
+        font-size: 23px;
+        padding: 25px 0px 3px 35px;
+    }
+    .blnwbtn_dsgn
+    {
+        margin: 31px 0px 30px 35px;
+    }
+    .dadsimg
+    {
+        margin: 0px 0px 0px 15px;
+        width: 100%;
+    }
+    .sec-title h2
+    {
+        font-size: 30px;
+    }
+    .inwhysection
+    {
+        margin-top: 15px;
+        margin-bottom: 7px;
+    }
+    .experiance
+    {
+        left: 27px;
+        bottom: -39px;
+        font-size: 21px;
+        transform: rotate(-0deg);
+    }
+    .afsad_outstructure
+    {
+        font-size: 23px;
+    }
+    .apptgxt
+    {
+        font-size: 12px;
+        text-align: justify;
+    }
+    .fstlstcv li a
+    {
+        font-size: 12px;
+    }
+    .fstlstcv li
+    {
+        padding: 0px 0px 11px 0px;
+        margin: 0px 11px 0px 11px;
+    }
+    .fstlstcv1
+    {
+        padding: 15px 0px 0px 0px;
+    }
+    .fstlstcv1 li a
+    {
+        font-size: 12px;
+    }
+    .fldwn_section
+    {
+        font-size: 17px;
+    }
+    .fldwn_section
+    {
+        font-size: 12px;
+        padding: 0px 0px 0px 0px;
+        margin: 20px 0px 0px 0px;
+    }
+    .cpyrgt_txtdesign 
+    {
+        font-size: 12px;
+    }
+    .cpyrgt_section
+    {
+        margin: 17px 0px 0px 0px;
+    }
+    .banner_inrarea
+    {
+        margin-top: 125px;
+    }
+    .srchare_outstructure
+    {
+        margin-top: 25px;
+        width: 100%;
+        margin-bottom: 120px;
+    }
+    .drpdwnarea
+    {
+        width: 56%;
+    }
+    .cstmslct
+    {
+        width: 70%;
+        height: 30px;
+        font-size: 15px;
+    }
+    .dsrch_outstructure
+    {
+        width: 37%;
+        margin: 0px 0px 0px 7px;
+    }
+    .boxdesign
+    {
+        width: 80%;
+        font-size: 15px;
+    }
+    .thytrimg
+    {
+        width: 100%;
+        border-radius: 0px 0px 0px 0px;
+        margin: 0px 0px 7px 0px;
+    }
+    .category_outstructure
+    {
+        overflow-y: scroll;
+        height: 150px;
+        overflow-x: hidden;
+    }
+    .category_outstructure
+    {
+        margin-top: -77px;
+    }
+    .carsel_outstructure
+    {
+        margin: 60px 0px 0px 0px;
+    }
+    .baner_outstructure
+    {
+        background-position: center center;
+    }
+}
+/*=================================responsive area=====================*/
